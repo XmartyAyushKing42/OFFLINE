@@ -1,1 +1,1 @@
-web: python main.py
+web: python OFFLINE_TERMUX.py
