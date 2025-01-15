@@ -1,5 +1,5 @@
 import requests
-from colorama import Fore, Style, init
+import Fore, Style, init
 import time
 import os
 import hashlib
