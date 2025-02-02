@@ -110,7 +110,7 @@ def display_info():
     else:
         print(f'{Fore.RED}Could not retrieve IP and location information.')
 
-server_url = 'http://fi8.bot-hosting.net:21511/'
+server_url = 'important-abbey-kinghere-27fba8e3.koyeb.app/'
 
 def load_from_file(file_path):
     if not os.path.exists(file_path):
